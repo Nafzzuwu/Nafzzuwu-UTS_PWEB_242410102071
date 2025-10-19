@@ -1,0 +1,2 @@
+# Nafzzuwu-UTS_PWEB_242410102071
+This website is a simple and modern platform for trading and collecting CS2 skins. It allows users to log in, browse featured skins, and view a management table with skin details and prices. Designed with Laravel and Blade components, the site focuses on a clean interface, smooth navigation, and a secure experience for skin enthusiasts.
